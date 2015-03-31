@@ -199,7 +199,7 @@
 }
 -(void)testMethod2
 {
-    NSString *string2 = @"DEF";
+    NSString *string2 = @"DEFa";
 
 
 }
