@@ -193,6 +193,17 @@
     [theOfflineAlert show];
 }
 
+-(void)testMethod1
+{
+    NSString *string1 = @"ABC";
+}
+-(void)testMethod2
+{
+    NSString *string2 = @"DEF";
+
+
+}
+
 
 
 
