@@ -194,7 +194,9 @@
 }
 
 -(void)testMethod1
-{}
+{
+    NSString *string1 = @"ABC";
+}
 
 
 
